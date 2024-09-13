@@ -1,11 +1,5 @@
 @charset "UTF-8";
-/*
-Template: CONSULTER - Business Consulting HTML Template
-Author: RRDevs
-Author URI: https://themeforest.net/user/rrdevs
-Description: Business Consulting HTML Template
-Version: 1.0
-*/
+
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&amp;family=Pathway+Gothic+One&amp;family=Poppins:wght@100;300;400;500;600;700&amp;display=swap");
 * {
   box-sizing: border-box;
@@ -18824,4 +18818,3 @@ header.transparent.stop.header-2 .main-header-wraper {
   display: none;
 }
 
-/*# sourceMappingURL=style.css.map */
